@@ -23,4 +23,3 @@ A universal finite automaton that processes file-input descriptions of determini
  ******
  To Run: python machine.py
     or   python3 machine.py
-
